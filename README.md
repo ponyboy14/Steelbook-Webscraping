@@ -13,4 +13,4 @@ This project was created to further my knowledge of python and its libraries. I 
 ## Future Goals
 - Add in a sorting method (Most likely a radix sort).
 - Speed up the scraping process.
-- Possibly allow the user to seach for an item instead of limiting to steelbooks.
+- Expanding to more websites.
